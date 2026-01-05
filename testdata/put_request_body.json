@@ -1,0 +1,11 @@
+{
+        "firstname": "bruce",
+        "lastname": "wayne",
+        "totalprice": 118,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2025-12-22",
+            "checkout": "2025-12-25"
+        },
+        "additionalneeds": "gym"
+    }

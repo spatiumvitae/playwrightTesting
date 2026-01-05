@@ -1,0 +1,11 @@
+{
+        "firstname": "valiveti",
+        "lastname": "karthi",
+        "totalprice": 118,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2025-12-22",
+            "checkout": "2025-12-25"
+        },
+        "additionalneeds": "chess"
+    }
